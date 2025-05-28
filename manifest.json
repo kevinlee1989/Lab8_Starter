@@ -1,32 +1,31 @@
 {
-    "name": "lab-8-starter",
+    "name": "Lab8_Starter",
     "short_name": "Kevin Lee",
     "description": "For CSE 110 Lab 08",
-    "start_url": "/LAB8_STARTER/index.html",
+    "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#f5a623",
     "icons": [
       {
-        "src": "/LAB8_STARTER/assets/images/icons/icon-192x192.png",
+        "src": "./assets/images/icons/icon-192x192.png",
         "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src": "/LAB8_STARTER/images/icons/icon-256x256.png",
+        "src": "./assets/images/icons/icon-256x256.png",
         "sizes": "256x256",
         "type": "image/png"
       },
       {
-        "src": "/LAB8_STARTER/images/icons/icon-384x384.png",
+        "src": "./assets/images/icons/icon-384x384.png",
         "sizes": "384x384",
         "type": "image/png"
       },
       {
-        "src": "/LAB8_STARTER/images/icons/icon-512x512.png",
+        "src": "./assets/images/icons/icon-512x512.png",
         "sizes": "512x512",
         "type": "image/png"
       }
     ]
   }
-  
